@@ -28,7 +28,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="execute_on_startup" type="boolean" value="true"/>
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="position" type="vector3" value="886.597 -1080.02 -266.055"/>
@@ -79,7 +79,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="execute_on_startup" type="boolean" value="true"/>
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="position" type="vector3" value="886.918 -1430.69 -266.055"/>
@@ -88,8 +88,30 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
+			<entry index="6" type="table">
+				<entry key="class" type="string" value="ElementUnitSequence"/>
+				<entry key="editor_name" type="string" value="unit_sequence"/>
+				<entry key="id" type="number" value="100004"/>
+				<entry key="module" type="string" value="CoreElementUnitSequence"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="5764.51 -697.984 242.823"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_list" type="table">
+					</entry>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
 		</entry>
 		<entry key="instances" type="table">
+			<entry index="1" type="string" value="vit_laptop_001"/>
+			<entry index="2" type="string" value="vit_laptop_002"/>
+			<entry index="3" type="string" value="vit_laptop_003"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

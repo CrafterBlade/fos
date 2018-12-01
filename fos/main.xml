@@ -24,11 +24,11 @@
 			<file file="environments/default.environment" type="custom_xml"/>
 		</include>
 		<packages>
+			<value_node value="levels/narratives/elephant/mad/terrain/terrain"/>
 			<value_node value="levels/narratives/armadillo/arm_for/world/world"/>
 			<value_node value="levels/narratives/butcher/friend/world"/>
 			<value_node value="levels/narratives/classics/pal/world/world"/>
 			<value_node value="levels/narratives/butcher/friend/art_upper_courtyard/art_upper_courtyard"/>
-			<value_node value="levels/narratives/elephant/mad/terrain/terrain"/>
 			<value_node value="levels/narratives/bain/revenge/art/art"/>
 			<value_node value="levels/narratives/armadillo/arm_fac/world/world"/>
 			<value_node value="levels/narratives/bain/shadow_raid/world"/>
